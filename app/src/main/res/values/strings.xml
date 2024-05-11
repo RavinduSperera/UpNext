@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UpNext</string>
+    <string name="welcomText">UpNext</string>
+    <string name="welcomeText">UP-NEXT</string>
+    <string name="button_command">PLAN YOUR DAY</string>
+    <string name="task_name">Task Name:</string>
+    <string name="task_desc">Task Desc</string>
+    <string name="new_task">New Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+    <string name="save">SAVE</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="select_time">ADD TIME</string>
+    <string name="launch_text">UP</string>
+    <string name="lauch_text2">NEXT</string>
+</resources>
